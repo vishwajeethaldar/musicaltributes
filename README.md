@@ -1,2 +1,2 @@
-# musicaltributes
- MusicalTributes, where emotions find their perfect melody! Express your deepest feelings by dedicating personalized songs to the special people in your life. Our platform allows you to create heartwarming musical tributes that speak volumes.
+# Musical Tributes
+MusicalTributes, where emotions find their perfect melody! Express your deepest feelings by dedicating personalized songs to the special people in your life. Our platform allows you to create heartwarming musical tributes that speak volumes. Simply enter the name, email, and mobile number of your loved one, and let the power of music convey your emotions. Whether it's a romantic serenade, a friendship anthem, or a celebration of life's milestones, MusicalTributes turns moments into melodies. Connect through the language of music and create lasting memories on MusicalTributes, where every note tells a story of love, joy, and connection.
