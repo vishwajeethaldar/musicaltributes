@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Musical Tributes
+## ----------------------
+Welcome to MusicalTributes, where emotions find their perfect melody! Express your deepest feelings by dedicating personalized songs to the special people in your life. Our platform allows you to create heartwarming musical tributes that speak volumes. Simply enter the name, email, and mobile number of your loved one, and let the power of music convey your emotions. Whether it's a romantic serenade, a friendship anthem, or a celebration of life's milestones, MusicalTributes turns moments into melodies. Connect through the language of music and create lasting memories on MusicalTributes, where every note tells a story of love, joy, and connection.
+<!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +36,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. -->
